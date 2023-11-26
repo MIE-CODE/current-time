@@ -1,0 +1,25 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 360px;
+  background-color: rgb(210, 95, 166);
+  background-image: url(time.avif);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.Big_Box {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 20px;
+  width: fit-content;
+  height: fit-content;
+  color: white;
+  font-size: 200px;
+  background-color: transparent;
+  border: 5px solid green;
+  border-style: dashed;
+  margin: 0 6px;
+  font-weight: 600;
+}
